@@ -1,4 +1,4 @@
-# RegisterLoginPageFirebase
+# Register & Login Page
 
 A Register & Login Page Written in SwiftUI utilizing Firebase in the Backend
 
