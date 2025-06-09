@@ -6,11 +6,13 @@
 
 A clean, modern, and robust user authentication template for iOS apps built with SwiftUI and Firebase. This project provides a ready-to-use solution for user registration and login, designed with best practices and a scalable architecture.
 
+<br></br>
 
 <p align="center">
-  ![Simulator Screenshot - iPhone 16 Pro - 2025-06-09 at 11 54 10](https://github.com/user-attachments/assets/f9bd21bd-917f-4790-b07a-ceb486a8bf40)
-  ![Simulator Screenshot - iPhone 16 Pro - 2025-06-09 at 11 54 21](https://github.com/user-attachments/assets/a0a0f826-3665-438d-b50e-e93720f2942c)
+    <img width="453" alt="Screenshot 2025-06-09 at 12 00 08 PM" src="https://github.com/user-attachments/assets/56bbb902-981d-4bd3-b614-7124d6af96e7" />
+    <img width="455" alt="Screenshot 2025-06-09 at 12 00 33 PM" src="https://github.com/user-attachments/assets/94ad92a9-3807-4660-ac6e-e22d68d4cecc" />
 </p>
+
 
 ---
 
@@ -58,7 +60,7 @@ A clean, modern, and robust user authentication template for iOS apps built with
 
 4.  **Configure the App Entry Point**
     * Open your main app file (e.g., `FirebaseAuthApp.swift`) and configure Firebase. You'll also need to set up the `AuthViewModel` as an environment object.
-      
+      <br></br>
 
     ```swift
     import SwiftUI
