@@ -8,8 +8,8 @@ A clean, modern, and robust user authentication template for iOS apps built with
 
 
 <p align="center">
-  <img width="345" alt="Screenshot 2023-10-11 at 3 32 54 PM" src="https://github.com/ReyabSaluja/RegisterLoginPageFirebase/assets/114021780/3e1815e5-8460-4017-a85e-cb2c797dfaae">
-  <img width="346" alt="Screenshot 2023-10-11 at 3 34 15 PM" src="https://github.com/ReyabSaluja/RegisterLoginPageFirebase/assets/114021780/b0b6754d-ea43-4fe6-809b-43ba0c1607bd">
+  ![Simulator Screenshot - iPhone 16 Pro - 2025-06-09 at 11 54 10](https://github.com/user-attachments/assets/f9bd21bd-917f-4790-b07a-ceb486a8bf40)
+  ![Simulator Screenshot - iPhone 16 Pro - 2025-06-09 at 11 54 21](https://github.com/user-attachments/assets/a0a0f826-3665-438d-b50e-e93720f2942c)
 </p>
 
 ---
