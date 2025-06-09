@@ -7,10 +7,8 @@
 A clean, modern, and robust user authentication template for iOS apps built with SwiftUI and Firebase. This project provides a ready-to-use solution for user registration and login, designed with best practices and a scalable architecture.
 
 <p align="center">
-  <img src="https://i.imgur.com/your-app-preview.png" alt="App Preview" width="600"/>
-</p>
-<p align="center">
-  <em>(Replace the image URL above with a GIF or screenshot of your app)</em>
+  <img width="345" alt="Screenshot 2023-10-11 at 3 32 54 PM" src="https://github.com/ReyabSaluja/RegisterLoginPageFirebase/assets/114021780/3e1815e5-8460-4017-a85e-cb2c797dfaae">
+  <img width="346" alt="Screenshot 2023-10-11 at 3 34 15 PM" src="https://github.com/ReyabSaluja/RegisterLoginPageFirebase/assets/114021780/b0b6754d-ea43-4fe6-809b-43ba0c1607bd">
 </p>
 
 ---
@@ -115,8 +113,3 @@ Contributions are welcome! If you find a bug or have a feature request, please o
 ## 📄 License
 
 This project is licensed under the MIT License. See the `LICENSE` file for details.
-
-
-<img width="345" alt="Screenshot 2023-10-11 at 3 32 54 PM" src="https://github.com/ReyabSaluja/RegisterLoginPageFirebase/assets/114021780/3e1815e5-8460-4017-a85e-cb2c797dfaae">
-
-<img width="346" alt="Screenshot 2023-10-11 at 3 34 15 PM" src="https://github.com/ReyabSaluja/RegisterLoginPageFirebase/assets/114021780/b0b6754d-ea43-4fe6-809b-43ba0c1607bd">
