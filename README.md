@@ -58,6 +58,7 @@ A clean, modern, and robust user authentication template for iOS apps built with
 
 4.  **Configure the App Entry Point**
     * Open your main app file (e.g., `FirebaseAuthApp.swift`) and configure Firebase. You'll also need to set up the `AuthViewModel` as an environment object.
+      
 
     ```swift
     import SwiftUI
